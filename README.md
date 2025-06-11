@@ -103,3 +103,14 @@ Copy and paste the full chatbot code into a notebook cell.
 Run all cells sequentially.
 
 Interact with the chatbot in the input prompt that appears.
+
+# output 
+![Image](https://github.com/user-attachments/assets/1d2dafa0-d4fe-4630-b081-f08ac77357f9)
+
+![Image](https://github.com/user-attachments/assets/730f41dd-8754-4255-95e4-2867dd6a16cd)
+
+![Image](https://github.com/user-attachments/assets/b4aa0969-621d-46a4-ba56-cba294cd37e5)
+
+![Image](https://github.com/user-attachments/assets/c012956a-3c17-4481-b3aa-ce907b5cabdd)
+
+![Image](https://github.com/user-attachments/assets/0f18e9c6-ed2e-486c-ba15-7d3c90206b89)
